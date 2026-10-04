@@ -1,1 +1,1 @@
-# Курс NodeJS PurpleSchool ty
+# Курс NodeJS PurpleSchool
